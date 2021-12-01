@@ -21,31 +21,33 @@ function Resume() {
         </Row>
         <Row className="resume">
           <Col md={6} className="resume-left">
-            <h3 className="resume-title">THE BOX</h3>
+            <h3 className="resume-title">THE BOX - "20"</h3>
             <Resumecontent
-              title="SATOSHION THE BOX"
-              date="TEST"
+              title="20 feet Intelligent Data Container"
+              date="168 x S19j pro"
               content={[
-                "TEST",
-                "TEST",
-                "TEST",
+                "Imput: 600A x 2 (415V Wye 3Phase)",
+              
               ]}
             />
-            <h3 className="resume-title">QUOTE</h3>
+            <h3 className="resume-title">THE BOX - "40"</h3>
             <Resumecontent
-              title="TEST"
+              title="40 feet Intelligent Data Container"
+              date="336 x S19j pro"
               content={[
-                "TEST",
+                "Imput: 600A x 4 (415V Wye 3Phase)",
+              
               ]}
             />
           </Col>
           <Col md={6} className="resume-right">
             <h3 className="resume-title">SPECIFICATIONS</h3>
             <Resumecontent
-              title="TEST"
-              date="TEST"
+              title="Key Features"
+              date="For BOTH The BOX 20 and 40"
               content={[
-                "TEST",
+                "Our products adopt integrated power supply system, power supply circuit adopts three-level switch protection, each device socket is controlled by independent circuit breaker, conveniently and flexibly.",
+                " The container is installed with water curtain cooling system, through which further reduce the inner environment temperature, improving the heat dissipation of equipment."
               ]}
             />
 
@@ -53,15 +55,15 @@ function Resume() {
             <Resumecontent
               title=""
               content={[
-                "TEST",
+                "Contact: wchen.btc@gmail.com",
               ]}
             />
 
-            <h3 className="resume-title">PDF</h3>
+            <h3 className="resume-title">Stock Status</h3>
             <Resumecontent
               title=""
               content={[
-                "TEST",
+                "At the port of USA, will start transit soon, ORDER NOW! First Come, First Served",
               ]}
             />
           </Col>
